@@ -14,6 +14,8 @@
         <module>dubbo-api-service</module>
         <module>dubbo-consumer-service</module>
         <module>dubbo-provider-service</module>
+        <module>my-kafka</module>
+        <module>my-simple</module>
     </modules>
     <packaging>pom</packaging>
 
