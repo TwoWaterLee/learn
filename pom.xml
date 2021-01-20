@@ -16,6 +16,8 @@
         <module>dubbo-provider-service</module>
         <module>my-kafka</module>
         <module>my-simple</module>
+        <module>my-jvm</module>
+        <module>my-temp</module>
     </modules>
     <packaging>pom</packaging>
 
